@@ -1,17 +1,21 @@
 # Rainbow Survivors
 
-Fight hordes of enemies by **dashing** into them and drawing **rainbow trails** across the map.
+**Developer Note:** This is my first time participating in js13kGames, and it was a really fun experience! Thanks to everyone who made this event possible!
 
-Defeat enemies, collect XP, choose upgrades, and build your way through increasingly dangerous waves.
+## Gameplay
 
-Survive for as long as you can, defeat the **Boss** while the enemies continue to grow stronger.
+Fight hordes of enemies by **sprinting** into them and drawing **rainbow trails** across the map.
+
+Defeat enemies, collect XP, choose upgrades, and grow stronger as you level up.
+
+Fight through increasingly dangerous waves, defeat the **Boss**, and survive for as long as you can.
 
 ## Controls
 
 * **WASD** - Move
 * **Space (Hold)** - Sprint
 * **Mouse (Hold)** - Draw rainbow trails
-* **1–7 / Scroll** - Change rainbow color
+* **1–7 / Scroll** - Switch rainbow colors
 * **R** - Restart
 
 ## Rainbow Colors
@@ -32,4 +36,8 @@ Inspired by **Vampire Survivors** and **Cat Survivors** (from js13kGames 2025).
 
 ## Development
 
-The code was written with AI assistance. All in-game visuals are procedurally rendered in code, not AI-generated. The cover art was created with AI assistance.
+I used AI to help with coding and creating the cover art. All in-game visuals are rendered procedurally in code.
+
+Also, I somehow forgot to add audio entirely...
+
+So yeah... GG, I guess. **QwQ**
